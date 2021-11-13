@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/App.scss"],"names":[],"mappings":"AAEE,YACE,kBAAmB,CAEnB,iBACE,wBAAoC,CACrC,cAID,gBAAiB","file":"main.9e08101c.chunk.css","sourcesContent":[".list {\n  \n  &__item {\n    margin-bottom: 10px;\n\n    &-pink {\n      background-color: rgb(190, 147, 154);\n    }\n  }\n\n  &__button {\n    margin-left: 20px;\n  }\n}\n"]}
